@@ -1,0 +1,29 @@
+{
+    "name": "dc-bot-image-host",
+    "version": "1.0.0",
+    "description": "Simple Discord Bot that helps you generate Image Link/URL for sharing across online, embedding into markdown, and much more.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "PhobosID",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.7.4",
+      "form-data": "^4.0.0",
+      "fs": "^0.0.2",
+      "discord.js": "^14.15.3"
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "repository": {
+      "url": "https://github.com/PhobosID/DC-Bot-Image-Host"
+    },
+    "keywords": [
+      "node",
+      "discord",
+      "discordjs",
+      "javascript"
+    ]
+  }
